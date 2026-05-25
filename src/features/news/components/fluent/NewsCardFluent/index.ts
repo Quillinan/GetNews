@@ -1,0 +1,1 @@
+export { NewsCardFluent } from "./NewsCardFluent";
