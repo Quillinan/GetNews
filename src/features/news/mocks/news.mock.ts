@@ -19,7 +19,7 @@ export const newsArticlesMock: NewsArticle[] = [
     summary:
       "Projeto começa com React, TypeScript, Vite e Storybook para documentação visual.",
     source: newsSourcesMock[0],
-    url: "https://example.com/news/1",
+    url: "https://g1.globo.com/",
     publishedAt: "2026-05-21T12:00:00.000Z",
     topicIds: ["technology"],
   },
