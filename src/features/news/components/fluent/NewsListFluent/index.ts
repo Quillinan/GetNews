@@ -1,0 +1,1 @@
+export { NewsListFluent } from "./NewsListFluent";
