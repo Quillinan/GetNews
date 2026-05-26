@@ -1,0 +1,1 @@
+export { NewsCardShadcn } from "./NewsCardShadcn";

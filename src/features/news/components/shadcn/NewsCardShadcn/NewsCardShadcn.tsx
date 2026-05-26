@@ -1,5 +1,15 @@
 import type { NewsArticle } from "@/features/news";
 
+import { Badge } from "@/components/ui/shadcn/badge";
+import { Button } from "@/components/ui/shadcn/button";
+import {
+  Card,
+  CardContent,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/shadcn/card";
+
 type NewsCardShadcnProps = {
   article: NewsArticle;
 };
